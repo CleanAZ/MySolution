@@ -1,0 +1,10 @@
+ô
+è/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/Microsoft.AspNetCore.App.SourceGenerators/Microsoft.AspNetCore.SourceGenerators.PublicProgramSourceGenerator/PublicTopLevelProgram.Generated.g.csutf-8ø
+ì/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/Microsoft.AspNetCore.OpenApi.SourceGenerators/Microsoft.AspNetCore.OpenApi.SourceGenerators.XmlCommentGenerator/OpenApiXmlCommentSupport.generated.csutf-8”
+ˆ/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/MySolution.API.MvcApplicationPartsAssemblyInfo.csutf-8€
+u/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/MySolution.API.AssemblyInfo.csutf-8’
+†/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8‚
+w/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/MySolution.API.GlobalUsings.g.csutf-8X
+O/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/Program.csutf-8h
+_/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/Orders/OrdersController.csutf-8w
+n/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/Middleware/ExceptionHandlingMiddleware.csutf-8

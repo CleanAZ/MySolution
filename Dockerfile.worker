@@ -1,0 +1,21 @@
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+COPY MySolution.slnx .
+COPY MySolution.Worker/MySolution.Worker.csproj MySolution.Worker/
+COPY MySolution.Application/MySolution.Application.csproj MySolution.Application/
+COPY MySolution.Domain/MySolution.Domain.csproj MySolution.Domain/
+COPY MySolution.Infrastructure/MySolution.Infrastructure.csproj MySolution.Infrastructure/
+
+RUN dotnet restore MySolution.Worker/MySolution.Worker.csproj
+
+COPY . .
+
+RUN dotnet publish MySolution.Worker/MySolution.Worker.csproj -c Release -o /app
+
+FROM mcr.microsoft.com/dotnet/runtime:8.0
+WORKDIR /app
+
+COPY --from=build /app .
+
+ENTRYPOINT ["dotnet", "MySolution.Worker.dll"]

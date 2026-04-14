@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hy9OPXWyh2cq2Y9eVCM8EZlFSaexy4uJS+v52xHzRlXaLdy/oULWIQHz7X/WQm3piwvTvHqzsB7KyBwCkVsImg==",
+  "success": true,
+  "projectFilePath": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/MySolution.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/aziztayebi/.nuget/packages/mediatr/14.0.0/mediatr.14.0.0.nupkg.sha512",
+    "/Users/aziztayebi/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/aziztayebi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/Users/aziztayebi/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/Users/aziztayebi/.nuget/packages/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "/Users/aziztayebi/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.14.0/microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "/Users/aziztayebi/.nuget/packages/microsoft.identitymodel.logging/8.14.0/microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "/Users/aziztayebi/.nuget/packages/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "/Users/aziztayebi/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0/system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

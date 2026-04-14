@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: worker-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: worker
+  template:
+    metadata:
+      labels:
+        app: worker
+    spec:
+      containers:
+        - name: worker-container
+          image: myworker:latest
+          imagePullPolicy: Never
+          env:
+            - name: AWS__Region
+              value: "us-east-1"
+            - name: AWS__SQS__QueueUrl
+              value: "https://sqs.us-east-1.amazonaws.com/061051257454/DevQueue"

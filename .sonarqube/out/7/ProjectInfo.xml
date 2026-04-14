@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>MySolution.Tests</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>4aa9fb77-efa9-a5d1-308e-31671c679ee8</ProjectGuid>
+  <FullPath>/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/MySolution.Tests.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResultFiles>
+    <AnalysisResultFile Id="FilesToAnalyze" Location="/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/conf/7/FilesToAnalyze.txt" />
+  </AnalysisResultFiles>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/7/Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/7</Property>
+    <Property Name="sonar.cs.scanner.telemetry">/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/7/Telemetry.json</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net10.0</TargetFramework>
+</ProjectInfo>

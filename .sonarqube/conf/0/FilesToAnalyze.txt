@@ -1,0 +1,4 @@
+﻿/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/Clients/Clients.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/Clients/IClientRepository.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/Orders/IOrderRepository.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/Orders/Order.cs

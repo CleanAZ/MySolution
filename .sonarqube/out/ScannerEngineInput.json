@@ -1,0 +1,264 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1771078752000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "cleanproject"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/docker-compose.yml"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "9C58F355-A750-F264-F3C8-3C1E0A501BF2,4AA9FB77-EFA9-A5D1-308E-31671C679EE8,A3531EE0-53D4-71DB-2AEC-18ED60CDED08,5FBA7560-B57B-27F4-392F-04FFC15A09A3,0E003297-AFC3-49F5-852C-9397DEC5691C"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.projectKey",
+      "value": "cleanproject:9C58F355-A750-F264-F3C8-3C1E0A501BF2"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.projectName",
+      "value": "MySolution.Domain"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.projectBaseDir",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.working.directory",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/.sonar/mod0"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.sources",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/Clients/Clients.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/Clients/IClientRepository.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/Orders/IOrderRepository.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/Orders/Order.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/obj/MySolution.Domain.csproj.nuget.dgspec.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/obj/project.assets.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/bin/Debug/net10.0/MySolution.Domain.deps.json"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.cs.analyzer.projectOutPaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/0,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/5"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.cs.roslyn.reportFilePaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/0/Issues.json,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/5/Issues.json"
+    },
+    {
+      "key": "9C58F355-A750-F264-F3C8-3C1E0A501BF2.sonar.cs.scanner.telemetry",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/0/Telemetry.json,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/5/Telemetry.json"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.projectKey",
+      "value": "cleanproject:4AA9FB77-EFA9-A5D1-308E-31671C679EE8"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.projectName",
+      "value": "MySolution.Tests"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.projectBaseDir",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.working.directory",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/.sonar/mod1"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.tests",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/obj/MySolution.Tests.csproj.nuget.dgspec.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/obj/project.assets.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/bin/Debug/net10.0/MySolution.Tests.runtimeconfig.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/bin/Debug/net10.0/MySolution.Tests.deps.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/GetOrderByIdHandlerTests.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/UpdateDescriptionOrderHandlerTests.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/coverage.opencover.xml,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/TestResults/854ab53b-6b41-4e29-b584-27d5e9fd6cd2/coverage.cobertura.xml"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.cs.analyzer.projectOutPaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/7,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/3"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.cs.roslyn.reportFilePaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/7/Issues.json,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/3/Issues.json"
+    },
+    {
+      "key": "4AA9FB77-EFA9-A5D1-308E-31671C679EE8.sonar.cs.scanner.telemetry",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/7/Telemetry.json,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/3/Telemetry.json"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.projectKey",
+      "value": "cleanproject:A3531EE0-53D4-71DB-2AEC-18ED60CDED08"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.projectName",
+      "value": "MySolution.Application"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.projectBaseDir",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.working.directory",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/.sonar/mod2"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.sources",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/MySolution.Application.csproj.nuget.dgspec.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/project.assets.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/bin/Debug/net10.0/MySolution.Application.deps.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Common/Exceptions/NotFoundException.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Commands/CreateOrderCommand.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Commands/CreateOrderHandler.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Commands/UpdateDescriptionOrderCommand.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Commands/UpdateDescriptionOrderHandler.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/DTOs/OrderDto.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Queries/GetOrderByIdHandler.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Queries/GetOrderByIdQuery.cs"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.cs.analyzer.projectOutPaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/6,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/2"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.cs.roslyn.reportFilePaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/6/Issues.json,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/2/Issues.json"
+    },
+    {
+      "key": "A3531EE0-53D4-71DB-2AEC-18ED60CDED08.sonar.cs.scanner.telemetry",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/6/Telemetry.json,/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/2/Telemetry.json"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.projectKey",
+      "value": "cleanproject:5FBA7560-B57B-27F4-392F-04FFC15A09A3"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.projectName",
+      "value": "MySolution.Infrastructure"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.projectBaseDir",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.working.directory",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/.sonar/mod3"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.sources",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/MySolution.Infrastructure.csproj.nuget.dgspec.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/project.assets.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Infrastructure.deps.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Infrastructure.runtimeconfig.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin\\Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin\\Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin\\Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/AppDbContext.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/20260211194018_InitialCreate.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/20260211194018_InitialCreate.Designer.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/20260211201438_DescriptionAdded.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/20260211201438_DescriptionAdded.Designer.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/AppDbContextModelSnapshot.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Persistence/Clients/ClientRepository.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Persistence/Orders/OrderRepository.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Domain.pdb,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Infrastructure.pdb"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.cs.analyzer.projectOutPaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/1"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.cs.roslyn.reportFilePaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/1/Issues.json"
+    },
+    {
+      "key": "5FBA7560-B57B-27F4-392F-04FFC15A09A3.sonar.cs.scanner.telemetry",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/1/Telemetry.json"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.projectKey",
+      "value": "cleanproject:0E003297-AFC3-49F5-852C-9397DEC5691C"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.projectName",
+      "value": "MySolution.API"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.projectBaseDir",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.working.directory",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/.sonar/mod4"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.sources",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/appsettings.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/appsettings.Development.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/project.assets.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/MySolution.API.csproj.nuget.dgspec.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/Properties/launchSettings.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/staticwebassets.build.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/staticwebassets.build.endpoints.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/rjsmrazor.dswa.cache.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/rpswa.dswa.cache.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/appsettings.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/MySolution.API.runtimeconfig.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/MySolution.API.staticwebassets.endpoints.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/appsettings.Development.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/MySolution.API.deps.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin\\Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin\\Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin\\Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/appsettings.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/MySolution.API.runtimeconfig.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/MySolution.API.staticwebassets.endpoints.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/appsettings.Development.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/MySolution.API.deps.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/bin/Debug/net10.0/appsettings.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/bin/Debug/net10.0/MySolution.API.runtimeconfig.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/bin/Debug/net10.0/MySolution.API.staticwebassets.endpoints.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/bin/Debug/net10.0/appsettings.Development.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/bin/Debug/net10.0/bin/Debug/net10.0/MySolution.API.deps.json,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/Middleware/ExceptionHandlingMiddleware.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/Orders/OrdersController.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/Program.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/MySolution.API.GlobalUsings.g.cs,\"/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs\",/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/MySolution.API.AssemblyInfo.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/obj/Debug/net10.0/MySolution.API.MvcApplicationPartsAssemblyInfo.cs,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/MySolution.API,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/MySolution.API.pdb,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/MySolution.Application.pdb,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/MySolution.Domain.pdb,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/bin/Debug/net10.0/MySolution.Infrastructure.pdb,/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/MySolution.API.http"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.cs.analyzer.projectOutPaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/4"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.cs.roslyn.reportFilePaths",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/4/Issues.json"
+    },
+    {
+      "key": "0E003297-AFC3-49F5-852C-9397DEC5691C.sonar.cs.scanner.telemetry",
+      "value": "/Users/aziztayebi/Documents/net projects/cleanproject/.sonarqube/out/4/Telemetry.json"
+    },
+    {
+      "key": "sonar.login",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.cs.opencover.reportsPaths",
+      "value": "**/coverage.opencover.xml"
+    },
+    {
+      "key": "sonar.exclusions",
+      "value": "**/bin/**,**/obj/**,**/coverage.opencover.xml"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

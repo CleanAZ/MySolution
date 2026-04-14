@@ -1,0 +1,17 @@
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net8.0/MySolution.Infrastructure.deps.json
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net8.0/MySolution.Infrastructure.runtimeconfig.json
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net8.0/MySolution.Infrastructure.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net8.0/MySolution.Infrastructure.pdb
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net8.0/MySolution.Domain.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net8.0/MySolution.Domain.pdb
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.csproj.AssemblyReference.cache
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.AssemblyInfoInputs.cache
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.AssemblyInfo.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.csproj.CopyComplete
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/refint/MySolution.Infrastructure.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.pdb
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/MySolution.Infrastructure.genruntimeconfig.cache
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/obj/Debug/net8.0/ref/MySolution.Infrastructure.dll

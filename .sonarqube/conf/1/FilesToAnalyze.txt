@@ -1,0 +1,14 @@
+﻿/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/AppDbContext.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/20260211194018_InitialCreate.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/20260211194018_InitialCreate.Designer.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/20260211201438_DescriptionAdded.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/20260211201438_DescriptionAdded.Designer.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Migrations/AppDbContextModelSnapshot.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Persistence/Clients/ClientRepository.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/Persistence/Orders/OrderRepository.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Domain.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Domain.pdb
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Infrastructure.deps.json
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Infrastructure.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Infrastructure.pdb
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/bin/Debug/net10.0/MySolution.Infrastructure.runtimeconfig.json

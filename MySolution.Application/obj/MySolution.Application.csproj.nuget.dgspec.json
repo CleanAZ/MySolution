@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/MySolution.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/MySolution.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/MySolution.Application.csproj",
+        "projectName": "MySolution.Application",
+        "projectPath": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/MySolution.Application.csproj",
+        "packagesPath": "/Users/aziztayebi/.nuget/packages/",
+        "outputPath": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aziztayebi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/MySolution.Domain.csproj": {
+                "projectPath": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/MySolution.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.124/libexec/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/MySolution.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/MySolution.Domain.csproj",
+        "projectName": "MySolution.Domain",
+        "projectPath": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/MySolution.Domain.csproj",
+        "packagesPath": "/Users/aziztayebi/.nuget/packages/",
+        "outputPath": "/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aziztayebi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.124/libexec/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

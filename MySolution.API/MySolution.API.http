@@ -1,0 +1,13 @@
+@MySolution.API_HostAddress = http://localhost:5138
+
+GET {{MySolution.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+### Create Order
+POST {{MySolution.API_HostAddress}}/api/orders
+Content-Type: application/json
+
+{
+  "total": 250.50
+}

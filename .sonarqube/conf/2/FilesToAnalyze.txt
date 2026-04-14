@@ -1,0 +1,8 @@
+﻿/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Common/Exceptions/NotFoundException.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Commands/CreateOrderCommand.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Commands/CreateOrderHandler.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Commands/UpdateDescriptionOrderCommand.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Commands/UpdateDescriptionOrderHandler.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/DTOs/OrderDto.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Queries/GetOrderByIdHandler.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/Orders/Queries/GetOrderByIdQuery.cs

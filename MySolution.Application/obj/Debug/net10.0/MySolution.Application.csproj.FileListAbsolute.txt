@@ -1,0 +1,15 @@
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/bin/Debug/net10.0/MySolution.Application.deps.json
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/bin/Debug/net10.0/MySolution.Application.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/bin/Debug/net10.0/MySolution.Application.pdb
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/bin/Debug/net10.0/MySolution.Domain.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/bin/Debug/net10.0/MySolution.Domain.pdb
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/MySolution.Application.csproj.AssemblyReference.cache
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/MySolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/MySolution.Application.AssemblyInfoInputs.cache
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/MySolution.Application.AssemblyInfo.cs
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/MySolution.Application.csproj.CoreCompileInputs.cache
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/MySoluti.4F9A524B.Up2Date
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/MySolution.Application.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/refint/MySolution.Application.dll
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/MySolution.Application.pdb
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/obj/Debug/net10.0/ref/MySolution.Application.dll

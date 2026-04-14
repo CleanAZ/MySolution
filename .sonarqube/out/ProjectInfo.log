@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Domain/MySolution.Domain.csproj
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Application/MySolution.Application.csproj
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Infrastructure/MySolution.Infrastructure.csproj
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.API/MySolution.API.csproj
+
+
+Test projects
+---------------------------------------
+/Users/aziztayebi/Documents/net projects/cleanproject/MySolution.Tests/MySolution.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
